@@ -45,9 +45,10 @@ const Login = () => {
 
         setTimeout(() => {
           setErrorMsg(null);
-          router.push("/");
         }, 1000);
-        
+
+        router.push("/");
+
       } catch (error) {
         setErrorMsg(error.message.replace("GraphQL error: ", ""));
         setTimeout(() => {
