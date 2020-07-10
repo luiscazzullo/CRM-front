@@ -26,7 +26,7 @@ const Products = () => {
             Nuevo Producto
           </a>
         </Link>
-        <div className="overflor-x-scroll">
+        <div className="overflow-x-scroll">
           <table className="table-auto shadow-md mt-10 w-full w-lg">
             <thead className="bg-gray-800">
               <tr className="text-white">
