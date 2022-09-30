@@ -17,7 +17,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-select": "^3.1.0",
-    "recharts": "^1.8.5",
+    "recharts": "^2.1.14",
     "sweetalert2": "^9.14.2",
     "yup": "^0.29.1"
   }
